@@ -2,7 +2,7 @@
 """
 Created on Fri Aug 28 19:27:37 2020
 
-@author: Rishivendra Gupta And Pooja Sharma
+@author: Rishivendra Gupta
 """
 from tkinter import*
 import math,random,os
